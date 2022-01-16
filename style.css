@@ -17,15 +17,24 @@ body{
     color: black;
 }
 .quem-somos {
-    background-image: url("bootstrap/img/azul.jpg");
+    background-image: url("bootstrap/img/art4.png");
+    background-repeat: no-repeat;
     border-radius:20px;
+    border: cadetblue 2px solid;
     margin: 5px;
     width: auto;
     height: 500px;
-    color: oldlace;
+    color:indianred;
 }
 .quem-somos p {
-    font-size: 25px;
+    font-size: 30px;
+}
+.quem-somos h3{
+    background-color:rgb(9, 32, 56);
+    text-align:justify;
+    font-size: 20px;
+    color:rgb(223, 142, 142);
+    border-radius: 10px;
 }
 .margin {
     padding-top: 30px;
