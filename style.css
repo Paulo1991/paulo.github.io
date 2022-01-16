@@ -17,8 +17,9 @@ body{
     color: black;
 }
 .quem-somos {
-    background-image: url("bootstrap/img/art4.png");
+    background-image: url("bootstrap/img/art1.jpg");
     background-repeat: no-repeat;
+    background-size:cover ;
     border-radius:20px;
     border: cadetblue 2px solid;
     margin: 5px;
@@ -27,7 +28,11 @@ body{
     color:indianred;
 }
 .quem-somos p {
+    background-color: rgb(9, 32, 56);
+    width: 400px;
     font-size: 30px;
+    margin: auto;
+    border-radius: 10px;
 }
 .quem-somos h3{
     background-color:rgb(9, 32, 56);
