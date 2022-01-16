@@ -3,7 +3,7 @@ body{
     padding: 0;
 }
 .navbar{
-    background-color:black;
+    background-color: darkgray;
     border-radius:20px;
     margin: 5px;
 }
@@ -12,10 +12,9 @@ body{
     border-radius: 10px;
     margin-left: 5px;
     margin-right: 5px;
-    color: oldlace;
 }
 .navbar ul li a{
-    color: oldlace;
+    color: black;
 }
 .quem-somos {
     background-image: url("bootstrap/img/azul.jpg");
@@ -50,10 +49,10 @@ body{
     margin-right: auto;
 }
 .bg-footer {
-    background-color:black;
+    background-color:lightslategrey;
     border-radius:20px;
     margin: 5px;
-    color:gainsboro;
+    color:black;
     padding: 50px;
 
 }
