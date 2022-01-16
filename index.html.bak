@@ -10,7 +10,7 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navnar-light">
-    <a class="navbar-brand" href="https://paulo1991.github.io/paulo.github.io/">
+    <a class="navbar-brand" href="https://www.guiafoca.org/">
         <img src="bootstrap/img/linux.png" width="100" height="80" >
         </a>
         <div class="collapse navbar-collapse">
@@ -67,7 +67,7 @@
                 <div class="col-lg-6">
                     <h3>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia recusandae ullam voluptate reprehenderit aliquid,
                          tenetur ipsum? Soluta, et id veritatis assumenda, sunt excepturi eius alias, praesentium corrupti velit exercitationem maxime.</h3>
-                    <img src="bootstrap/img/menina.jpg" alt=200" width="180">
+                    <img src="bootstrap/img/cachorra.jpg" alt=200" width="180">
                 </div>
             </div>
         </div>

@@ -1,11 +1,6 @@
-body{
-    margin: 0;
-    padding: 0;
 }
 .navbar{
     background-color:black;
-    border-radius:20px;
-    margin: 5px;
 }
 .navbar ul li{
     background-color:lightslategrey;
@@ -19,9 +14,7 @@ body{
 }
 .quem-somos {
     background-image: url("bootstrap/img/azul.jpg");
-    border-radius:20px;
-    margin: 5px;
-    width: auto;
+    width: 100%;
     height: 500px;
     color: oldlace;
 }
@@ -51,8 +44,6 @@ body{
 }
 .bg-footer {
     background-color:black;
-    border-radius:20px;
-    margin: 5px;
     color:gainsboro;
     padding: 50px;
 
