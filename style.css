@@ -16,6 +16,12 @@ body{
 .navbar ul li a{
     color: black;
 }
+.navbar ul li a:hover{
+    background-color: rgb(187, 160, 85);
+    border-radius: 10px;
+    font-size: 20px;
+    color: black;
+}
 .quem-somos {
     background-image: url("bootstrap/img/art1.jpg");
     background-repeat: no-repeat;
@@ -25,17 +31,17 @@ body{
     margin: 5px;
     width: auto;
     height: 500px;
-    color:indianred;
+    color:rgb(219, 161, 161);
 }
 .quem-somos p {
-    background-color: rgb(9, 32, 56);
+    background-color: rgb(25, 54, 85);
     width: 400px;
     font-size: 30px;
     margin: auto;
     border-radius: 10px;
 }
 .quem-somos h3{
-    background-color:rgb(9, 32, 56);
+    background-color:rgb(19, 53, 88);
     text-align:justify;
     font-size: 20px;
     color:rgb(223, 142, 142);
