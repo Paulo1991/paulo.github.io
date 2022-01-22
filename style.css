@@ -21,6 +21,7 @@ body{
     border-radius: 10px;
     font-size: 20px;
     color: black;
+    border-bottom:chartreuse solid 2px ;
 }
 .quem-somos {
     background-image: url("bootstrap/img/art1.jpg");
