@@ -17,7 +17,7 @@ body{
     color: black;
 }
 .navbar ul li a:hover{
-    background-color: rgb(187, 160, 85);
+    background-color: rgb(155, 143, 110);
     border-radius: 10px;
     font-size: 20px;
     color: black;
@@ -35,14 +35,14 @@ body{
     color:black;
 }
 .quem-somos p {
-    background-color: rgb(187, 160, 85);
+    background-color: rgb(173, 157, 113);
     width: 400px;
     font-size: 30px;
     margin: auto;
     border-radius: 10px;
 }
 .quem-somos h3{
-    background-color:rgb(187, 160, 85);
+    background-color:rgb(179, 162, 115);
     text-align:justify;
     font-size: 20px;
     color:black;
